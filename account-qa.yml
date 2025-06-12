@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Easy Bank accounts related QA APIs and the documentation is available please refer"
   contactDetails:
     name: "John Doe - Developer"
-    email: "{cipher} 62da022a15bb9423caaf34576ce14dcf0b66a2f696e65c5071c0602e4c89a82203bcc668c18c11ea3e9cdd2d9074ea18"
+    email: "{cipher}62da022a15bb9423caaf34576ce14dcf0b66a2f696e65c5071c0602e4c89a82203bcc668c18c11ea3e9cdd2d9074ea18"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
